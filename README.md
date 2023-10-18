@@ -1,6 +1,3 @@
-Sure, here's the GitHub repository readme without the installation section:
-
-```markdown
 # GitHub Repository Readme
 
 This repository contains a set of TypeScript classes and utility functions for handling file validation and manipulation in an Angular application. The main classes provided in this library are `$error`, `$errors`, `$rule`, `BaseDto`, and `FileData`. Additionally, the library defines various file type enums and utility functions to work with file data.
@@ -83,10 +80,3 @@ An enum representing file categories like 'image', 'document', 'excel', and 'arc
 
 - `FilesLib`: An object mapping file types to their respective file information, including hex signatures and MIME types.
 - `FileCats`: An object mapping file categories to arrays of file types.
-
-## License
-
-This library is distributed under the [MIT License](LICENSE). Feel free to use and modify it in your projects.
-```
-
-Let me know if you need any further adjustments or information!
