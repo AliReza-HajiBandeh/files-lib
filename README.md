@@ -1,5 +1,3 @@
-# GitHub Repository Readme
-
 This repository contains a set of TypeScript classes and utility functions for handling file validation and manipulation in an Angular application. The main classes provided in this library are `$error`, `$errors`, `$rule`, `BaseDto`, and `FileData`. Additionally, the library defines various file type enums and utility functions to work with file data.
 
 ## Table of Contents
